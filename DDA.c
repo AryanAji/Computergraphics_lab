@@ -13,7 +13,7 @@ void main()
     float xn, yn;
     clrscr();
     initgraph(&gdriver,&gmode,"C:\\TURBOC3\\BGI");
-    printf("Enter strarting point : ");
+    printf("Enter starting point : ");
     scanf("%d%d",&x1,&y1);
     printf("Enter ending point : ");
     scanf("%d%d",&x2,&y2);
